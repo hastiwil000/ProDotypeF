@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gnujpdf">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/gnujpdf-1.7/gnujpdf-1.7.0/gnujpdf.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
